@@ -3,14 +3,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Juan%20Antonio/Documents/NetBeansProjects/menuPersonas/src/panelCrearPersona.java</file>
-            <file>file:/C:/Users/Juan%20Antonio/Documents/NetBeansProjects/menuPersonas/src/editarPersona.java</file>
-            <file>file:/C:/Users/Juan%20Antonio/Documents/NetBeansProjects/menuPersonas/src/listaPersonas.java</file>
-            <file>file:/C:/Users/Juan%20Antonio/Documents/NetBeansProjects/menuPersonas/src/eliminarPersona.java</file>
-            <file>file:/C:/Users/Juan%20Antonio/Documents/NetBeansProjects/menuPersonas/src/main.java</file>
-            <file>file:/C:/Users/Juan%20Antonio/Documents/NetBeansProjects/menuPersonas/src/buscarPersona.java</file>
-            <file>file:/C:/Users/Juan%20Antonio/Documents/NetBeansProjects/menuPersonas/src/Persona.java</file>
-            <file>file:/C:/Users/Juan%20Antonio/Documents/NetBeansProjects/menuPersonas/src/Inicio.java</file>
+            <file>file:/C:/Users/Juan%20Antonio/Documents/NetBeansProjects/menuPersonas/src/Paneles/editarPersona.java</file>
+            <file>file:/C:/Users/Juan%20Antonio/Documents/NetBeansProjects/menuPersonas/src/Paneles/Inicio.java</file>
+            <file>file:/C:/Users/Juan%20Antonio/Documents/NetBeansProjects/menuPersonas/src/noPaneles/main.java</file>
+            <file>file:/C:/Users/Juan%20Antonio/Documents/NetBeansProjects/menuPersonas/src/noPaneles/Persona.java</file>
+            <file>file:/C:/Users/Juan%20Antonio/Documents/NetBeansProjects/menuPersonas/src/Paneles/buscarPersona.java</file>
+            <file>file:/C:/Users/Juan%20Antonio/Documents/NetBeansProjects/menuPersonas/src/Paneles/eliminarPersona.java</file>
+            <file>file:/C:/Users/Juan%20Antonio/Documents/NetBeansProjects/menuPersonas/src/noPaneles/funciones.java</file>
+            <file>file:/C:/Users/Juan%20Antonio/Documents/NetBeansProjects/menuPersonas/src/Paneles/panelCrearPersona.java</file>
         </group>
     </open-files>
 </project-private>
